@@ -1,0 +1,10 @@
+^C:\USERS\DELL\SNEHA\PROJECTS\FILECOMPRESSION\BUILD\CMAKEFILES\A51E1928631C8D70DEA985D569FB23CB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DELL/sneha/projects/Filecompression -BC:/Users/DELL/sneha/projects/Filecompression/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DELL/sneha/projects/Filecompression/build/HuffmanCoding.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

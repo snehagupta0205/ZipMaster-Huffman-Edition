@@ -1,0 +1,4 @@
+C:/Users/DELL/sneha/projects/Filecompression/build/CMakeFiles/huffmanCoding.dir
+C:/Users/DELL/sneha/projects/Filecompression/build/CMakeFiles/huffmanDecoding.dir
+C:/Users/DELL/sneha/projects/Filecompression/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/sneha/projects/Filecompression/build/CMakeFiles/ZERO_CHECK.dir
